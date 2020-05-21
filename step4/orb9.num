@@ -1,0 +1,25 @@
+ hmax=  -0.20000 iord= 12 epms=  0.0000D+00iork= 12 eprk=  1.0000D-10
+  10   4   1  10   1
+ non convergence in zed; last term=   20      0.289086D+04
+ max was for    8
+ non convergence in zed; last term=   20      0.161230D+03
+ max was for    7
+ non convergence in zed; last term=   20      0.238270D+01
+ max was for    6
+ non convergence in zed; last term=   20      0.123526D+02
+ max was for    7
+ npas    10 ep    0.333D-12
+ npas    10 ep    0.459D-12
+ npas    10 ep    0.511D-12
+ npas    10 ep    0.553D-12
+ npas    10 ep    0.395D-12
+ npas    10 ep    0.278D-12
+ npas    10 ep    0.435D-12
+ npas    10 ep    0.299D-12
+ npas    10 ep    0.327D-12
+ npas    10 ep    0.322D-12
+ npas    10 ep    0.512D-12
+ npas    10 ep    0.551D-12
+ npas    10 ep    0.682D-12
+ npas    10 ep    0.375D-12
+ npas    10 ep    0.578D-12
