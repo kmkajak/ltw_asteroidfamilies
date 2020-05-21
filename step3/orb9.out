@@ -1,0 +1,97 @@
+; orbit9 vers. c, output file
+ in input            7  planets: KEP HEL ECLM00
+barycenter corr.flag  1 no. inner pla.   1
+; planetary inverse masses as used
+  9.9999983398634829D-01  4.0852371000000008D+05  3.2890056140000006D+05
+  3.0987080000000088D+06  1.0473485999999953D+03  3.4978979999996586D+03
+  2.2902980000000003D+04  1.9412240000261459D+04
+  planetary initial conditions as read
+  10  asteroids required,  10  with LCE; numbers:
+  3          4          5          6          7          9          10         11       
+  12         13       
+  asteroid 3          OK
+  asteroid 4          OK
+  asteroid 5          OK
+  asteroid 6          OK
+  asteroid 7          OK
+  asteroid 9          OK
+  asteroid 10         OK
+  asteroid 11         OK
+  asteroid 12         OK
+  asteroid 13         OK
+  file end looking for 545135              record       545136
+  Selection of the best stepsize, maximum= -0.200000000000000     
+ orbit no.  1 sugg.step= 0.0063 a,e= 0.723  0.0067
+ orbit no.  2 sugg.step= 0.0103 a,e= 1.000  0.0167
+ orbit no.  3 sugg.step= 0.0160 a,e= 1.524  0.0935
+ orbit no.  4 sugg.step= 0.1216 a,e= 5.203  0.0487
+ orbit no.  5 sugg.step= 0.2000 a,e= 9.581  0.0509
+ orbit no.  6 sugg.step= 0.2000 a,e=19.170  0.0469
+ orbit no.  7 sugg.step= 0.2000 a,e=30.182  0.0096
+ orbit no.  8 sugg.step= 0.0219 a,e= 2.669  0.3341
+ orbit no.  9 sugg.step= 0.0268 a,e= 2.362  0.1314
+ orbit no. 10 sugg.step= 0.0239 a,e= 2.574  0.2043
+ orbit no. 11 sugg.step= 0.0189 a,e= 2.425  0.3083
+ orbit no. 12 sugg.step= 0.0178 a,e= 2.386  0.2607
+ orbit no. 13 sugg.step= 0.0259 a,e= 2.386  0.1457
+ orbit no. 14 sugg.step= 0.0390 a,e= 3.142  0.1466
+ orbit no. 15 sugg.step= 0.0302 a,e= 2.453  0.1144
+ orbit no. 16 sugg.step= 0.0179 a,e= 2.334  0.2745
+ orbit no. 17 sugg.step= 0.0207 a,e= 2.576  0.2872
+ min. step required  0.006308 selected -0.006289 nn=   159
+  input complete, starting from t=  0.000000000000000E+000
+ renormalisation var.eq.no    5
+ time=     -50000.000000 norm=    7.75803D+06 gamma=    1.58642D+01
+ renormalisation var.eq.no    7
+ time=     -50000.000000 norm=    1.73161D+06 gamma=    1.43646D+01
+ renormalisation var.eq.no    3
+ time=    -150000.000000 norm=    1.29056D+06 gamma=    1.40706D+01
+ renormalisation var.eq.no    6
+ time=    -150000.000000 norm=    1.13033D+06 gamma=    1.39380D+01
+ renormalisation var.eq.no    4
+ time=    -200000.000000 norm=    1.13986D+06 gamma=    1.39464D+01
+ renormalisation var.eq.no    5
+ time=    -200000.000000 norm=    2.92978D+06 gamma=    3.07547D+01
+ renormalisation var.eq.no    1
+ time=    -300000.000000 norm=    1.95792D+06 gamma=    1.44874D+01
+ renormalisation var.eq.no    8
+ time=    -300000.000000 norm=    1.03695D+06 gamma=    1.38518D+01
+ renormalisation var.eq.no   10
+ time=    -350000.000000 norm=    1.13994D+06 gamma=    1.39465D+01
+ renormalisation var.eq.no    7
+ time=    -400000.000000 norm=    4.30791D+06 gamma=    2.96405D+01
+ renormalisation var.eq.no    9
+ time=    -450000.000000 norm=    5.24255D+06 gamma=    1.54723D+01
+ renormalisation var.eq.no    5
+ time=    -550000.000000 norm=    1.75283D+06 gamma=    4.51314D+01
+ renormalisation var.eq.no    7
+ time=    -600000.000000 norm=    6.51095D+06 gamma=    4.53295D+01
+ renormalisation var.eq.no    5
+ time=    -700000.000000 norm=    3.82404D+06 gamma=    6.02882D+01
+ renormalisation var.eq.no    7
+ time=    -850000.000000 norm=    2.01427D+09 gamma=    6.67530D+01
+ renormalisation var.eq.no    3
+ time=    -950000.000000 norm=    1.73698D+06 gamma=    2.84382D+01
+ renormalisation var.eq.no    5
+ time=   -1000000.000000 norm=    1.52889D+06 gamma=    7.45283D+01
+ renormalisation var.eq.no    7
+ time=   -1150000.000000 norm=    1.58395D+08 gamma=    8.56336D+01
+ renormalisation var.eq.no    5
+ time=   -1300000.000000 norm=    1.38200D+06 gamma=    8.86673D+01
+ renormalisation var.eq.no    7
+ time=   -1400000.000000 norm=    3.80479D+07 gamma=    1.03088D+02
+ renormalisation var.eq.no    5
+ time=   -1500000.000000 norm=    1.00842D+06 gamma=    1.02491D+02
+ renormalisation var.eq.no    7
+ time=   -1600000.000000 norm=    4.41736D+07 gamma=    1.20692D+02
+ renormalisation var.eq.no    5
+ time=   -1800000.000000 norm=    2.39102D+06 gamma=    1.17178D+02
+ renormalisation var.eq.no    7
+ time=   -1800000.000000 norm=    1.87317D+06 gamma=    1.35135D+02
+ renormalisation var.eq.no    5
+ time=   -1950000.000000 norm=    1.63736D+07 gamma=    1.33790D+02
+ renormalisation var.eq.no    1
+ time=   -2000000.000000 norm=    1.66669D+06 gamma=    2.88137D+01
+ renormalisation var.eq.no    7
+ time=   -2000000.000000 norm=    1.50095D+08 gamma=    1.53962D+02
+ end orbit8v, time =      -2000000.0000
