@@ -1,0 +1,242 @@
+ data from t=     -600.0000 to t= -1999400.0000 no datapoints=19989
+  together        10000   step         997
+  ==================================
+  asteroid 3        
+  =========== semimajor axis 
+ =====================Mean long:
+ freq  82.53041006 deg/yr; per     4.3620285 yr rms    14.110888 deg;  ph   161.1527 deg
+ ======== a :  2.669321478 sig=.000009127
+  =========== eccentricity 
+ forced  5 amp  3.30590D-02 ph   27.9026 S%   1.9093 cost  -6.5924D-05 unc.   2.9042D-04
+ forced  6 amp  3.04299D-02 ph  305.3149 S%   1.6722 cost   1.6502D-03 unc.  -5.4482D-04
+ forced  7 amp  2.74491D-04 ph   68.4811 S%   0.0001 cost  -1.5665D-03 unc.   1.3499D-04
+ Argument: freq  4.363234D+01"/yr, per     29702.738189 yr, rms   2.5158D+00deg  ph   63.3172 deg
+ Proper  2.335073D-01 arg  359.9982deg, S%  99.8033 const   1.6254D-03 unc  1.74D-05 rms 7.35D-03
+  =========== inclination 
+ forced  6 amp  5.73579D-03 ph  303.7373 S%   0.2423 cost  -3.9700D-04 unc.  -1.3299D-04
+ forced  7 amp  1.50000D-04 ph  100.2566 S%   0.0002 cost   3.6592D-04 unc.   1.9391D-04
+ forced  8 amp  6.40734D-04 ph  308.3001 S%   0.0030 cost  -3.3472D-04 unc.  -1.8291D-04
+ Argument: freq -6.122099D+01"/yr, per     21169.209680 yr, rms   5.3477D+00deg  ph  172.4133 deg
+ Proper  1.161502D-01 arg  359.9994deg, S%  99.7901 const   5.5198D-04 unc  2.04D-05 rms 3.77D-03
+  summary proper elements:
+ 2.6693215 0.0000006 0.0000015  82.53041 0.00002 0.00005
+ 0.2335073 0.0000795 0.0002300  43.63234 0.00313 0.00867
+ 0.2292082 0.0000285 0.0000630 -61.22099 0.00556 0.01667
+ ======== max. LCE
+ -1.7165D-06 rms.res  1.1368D+00 cost  1.2992D+01 tlyap -5.8258D+05
+  ==================================
+  asteroid 4        
+  =========== semimajor axis 
+ =====================Mean long:
+ freq  99.18787786 deg/yr; per     3.6294758 yr rms     2.149653 deg;  ph    38.4893 deg
+ ======== a :  2.361511371 sig=.000000655
+  =========== eccentricity 
+ forced  5 amp  2.64082D-02 ph   32.0472 S%   6.0447 cost  -6.3691D-05 unc.   1.2204D-04
+ forced  6 amp  3.13949D-02 ph  308.8635 S%   9.2091 cost   1.3320D-03 unc.   3.1614D-04
+ forced  7 amp  1.49956D-03 ph  127.5267 S%   0.0238 cost  -1.2326D-03 unc.   2.1402D-04
+ Argument: freq  3.648030D+01"/yr, per     35526.026005 yr, rms   1.8971D+00deg  ph  224.9178 deg
+ Proper  9.872441D-02 arg    0.0007deg, S%  99.9537 const   1.2338D-03 unc  1.31D-05 rms 1.53D-03
+  =========== inclination 
+ forced  6 amp  9.08974D-03 ph  299.6556 S%   2.5712 cost  -5.6113D-05 unc.   3.1171D-05
+ forced  7 amp  3.97026D-04 ph  149.2362 S%   0.0049 cost   2.6321D-05 unc.   6.9718D-05
+ forced  8 amp  5.50636D-04 ph   11.4675 S%   0.0093 cost  -1.5690D-05 unc.  -2.3302D-04
+ Argument: freq -3.920044D+01"/yr, per     33060.852142 yr, rms   3.4737D+00deg  ph   98.4074 deg
+ Proper  5.592649D-02 arg    0.0006deg, S%  99.9753 const   2.4521D-05 unc  4.72D-06 rms 6.22D-04
+  summary proper elements:
+ 2.3615114 0.0000000 0.0000000  99.18788 0.00000 0.00000
+ 0.0987244 0.0001982 0.0002841  36.48030 0.00404 0.01133
+ 0.1115042 0.0000611 0.0001289 -39.20044 0.00358 0.01080
+ ======== max. LCE
+ -1.5626D-06 rms.res  4.7827D-01 cost  9.4651D+00 tlyap -6.3995D+05
+  ==================================
+  asteroid 5        
+  =========== semimajor axis 
+ =====================Mean long:
+ freq  87.04671664 deg/yr; per     4.1357103 yr rms    65.290747 deg;  ph    21.2419 deg
+ ======== a :  2.576174194 sig=.000024537
+  =========== eccentricity 
+ forced  5 amp  3.80296D-02 ph   31.5760 S%   2.9119 cost   1.4126D-05 unc.  -6.3038D-05
+ forced  6 amp  2.33397D-02 ph  308.8159 S%   1.1443 cost   1.7562D-03 unc.   8.7398D-04
+ forced  7 amp  1.90436D-03 ph  124.4068 S%   0.0079 cost  -1.6716D-03 unc.  -1.2147D-03
+ Argument: freq  5.248902D+01"/yr, per     24690.877424 yr, rms   4.6358D+01deg  ph   84.0506 deg
+ Proper  2.132822D-01 arg  359.9858deg, S%  96.7419 const   1.8549D-03 unc  8.38D-05 rms 2.77D-02
+  =========== inclination 
+ forced  6 amp  5.32190D-03 ph  298.4090 S%   1.7810 cost   9.0389D-06 unc.  -1.2506D-04
+ forced  7 amp  4.56497D-04 ph  172.1988 S%   0.0130 cost  -1.2287D-05 unc.   6.8534D-05
+ forced  8 amp  6.44865D-04 ph   19.6127 S%   0.0259 cost   1.8502D-05 unc.  -9.6622D-05
+ Argument: freq -5.961997D+01"/yr, per     21737.683808 yr, rms   3.3431D+02deg  ph  217.1772 deg
+ Proper  3.946359D-02 arg    0.0010deg, S%  99.8369 const  -4.7595D-05 unc -4.18D-06 rms 1.14D-03
+  summary proper elements:
+ 2.5761742 0.0000114 0.0000318  87.04672 0.00016 0.00044
+ 0.2132822 0.0241185 0.0674443  52.48902 0.38417 1.11675
+ 0.0788044 0.0002895 0.0008519 -59.61997 2.82448 8.12947
+ ======== max. LCE
+ -1.0771D-06 rms.res  8.4108D-01 cost  1.1868D+01 tlyap -9.2846D+05
+  ==================================
+  asteroid 6        
+  =========== semimajor axis 
+ =====================Mean long:
+ freq  95.30255751 deg/yr; per     3.7774432 yr rms    23.322424 deg;  ph   184.9730 deg
+ ======== a :  2.425264662 sig=.000009876
+  =========== eccentricity 
+ forced  5 amp  2.75626D-02 ph   27.4818 S%   2.4441 cost  -3.2514D-04 unc.   1.0526D-04
+ forced  6 amp  7.09731D-02 ph  302.1563 S%  16.8463 cost   1.7298D-03 unc.  -5.4634D-04
+ forced  7 amp  2.24374D-04 ph  269.2869 S%   0.0002 cost  -1.5961D-03 unc.   6.2786D-05
+ Argument: freq  3.128364D+01"/yr, per     41427.399309 yr, rms   5.8062D+00deg  ph   28.2449 deg
+ Proper  1.576569D-01 arg  359.9982deg, S%  99.6091 const   1.7505D-03 unc -1.33D-05 rms 6.99D-03
+  =========== inclination 
+ forced  6 amp  9.99081D-03 ph  291.9296 S%   0.6259 cost   1.5807D-05 unc.  -2.2083D-04
+ forced  7 amp  9.05983D-04 ph  218.4288 S%   0.0052 cost  -4.1497D-05 unc.  -3.4391D-04
+ forced  8 amp  7.61565D-04 ph   15.1910 S%   0.0035 cost   4.7557D-05 unc.  -3.4087D-04
+ Argument: freq -4.152433D+01"/yr, per     31210.619376 yr, rms   4.1596D+01deg  ph  192.9370 deg
+ Proper  1.259504D-01 arg  359.9976deg, S%  99.9098 const  -8.5064D-05 unc  6.13D-06 rms 2.71D-03
+  summary proper elements:
+ 2.4252647 0.0000002 0.0000005  95.30256 0.00001 0.00002
+ 0.1576569 0.0021188 0.0034767  31.28364 0.01069 0.02471
+ 0.2479671 0.0002340 0.0005629 -41.52433 0.04901 0.13091
+ ======== max. LCE
+ -1.4086D-06 rms.res  4.9415D-01 cost  1.3325D+01 tlyap -7.0991D+05
+  ==================================
+  asteroid 7        
+  =========== semimajor axis 
+ =====================Mean long:
+ freq  97.65743024 deg/yr; per     3.6863554 yr rms     7.647561 deg;  ph   222.5348 deg
+ ======== a :  2.386097483 sig=.000043787
+  =========== eccentricity 
+ forced  5 amp  3.04389D-02 ph   30.6433 S%   1.9101 cost  -9.7808D-04 unc.   3.4384D-04
+ forced  6 amp  3.37955D-02 ph  306.3710 S%   2.4323 cost   2.4349D-03 unc.   3.5389D-04
+ forced  7 amp  1.65710D-03 ph  186.0306 S%   0.0060 cost  -2.4068D-03 unc.  -1.2975D-03
+ Argument: freq  3.794835D+01"/yr, per     34151.683235 yr, rms   2.3481D+00deg  ph   51.4891 deg
+ Proper  2.141246D-01 arg  359.9986deg, S%  99.9659 const   2.8419D-03 unc -2.23D-05 rms 2.80D-03
+  =========== inclination 
+ forced  6 amp  7.05156D-03 ph  303.4891 S%   1.5332 cost  -5.3048D-05 unc.   2.5863D-04
+ forced  7 amp  4.41211D-04 ph  125.1271 S%   0.0060 cost   3.2404D-05 unc.  -3.0271D-04
+ forced  8 amp  5.32423D-04 ph   12.7035 S%   0.0085 cost  -2.3447D-05 unc.   1.0418D-04
+ Argument: freq -4.606565D+01"/yr, per     28133.760185 yr, rms   7.1939D+00deg  ph  260.1033 deg
+ Proper  5.639946D-02 arg    0.0015deg, S%  99.8633 const   3.0687D-05 unc  1.84D-06 rms 1.47D-03
+  summary proper elements:
+ 2.3860975 0.0000002 0.0000006  97.65743 0.00001 0.00004
+ 0.2141246 0.0006720 0.0018632  37.94835 0.01829 0.04956
+ 0.1124413 0.0005511 0.0016560 -46.06565 0.02457 0.08006
+ ======== max. LCE
+ -1.9941D-06 rms.res  4.5307D-01 cost  1.3492D+01 tlyap -5.0148D+05
+  ==================================
+  asteroid 9        
+  =========== semimajor axis 
+ =====================Mean long:
+ freq  97.63740717 deg/yr; per     3.6871114 yr rms     2.044247 deg;  ph    44.5199 deg
+ ======== a :  2.386433505 sig=.000027672
+  =========== eccentricity 
+ forced  5 amp  2.71918D-02 ph   28.6212 S%   4.0298 cost   1.8898D-04 unc.   9.3737D-04
+ forced  6 amp  3.17325D-02 ph  308.8366 S%   5.7965 cost   1.1386D-03 unc.  -1.1465D-04
+ forced  7 amp  8.22892D-04 ph   76.3482 S%   0.0040 cost  -1.0177D-03 unc.   2.2688D-04
+ Argument: freq  3.836168D+01"/yr, per     33783.712086 yr, rms   1.2998D+00deg  ph   90.0442 deg
+ Proper  1.279053D-01 arg  359.9993deg, S%  99.9434 const   9.2947D-04 unc  3.51D-06 rms 2.15D-03
+  =========== inclination 
+ forced  6 amp  7.42649D-03 ph  298.9642 S%   3.1563 cost   1.2023D-04 unc.  -9.6969D-05
+ forced  7 amp  5.70651D-04 ph  150.7609 S%   0.0187 cost  -1.2845D-04 unc.   1.6164D-04
+ forced  8 amp  7.49646D-04 ph   34.4168 S%   0.0333 cost   1.2929D-04 unc.  -2.7980D-04
+ Argument: freq -4.163521D+01"/yr, per     31127.498577 yr, rms   3.2502D+00deg  ph   64.2693 deg
+ Proper  4.105511D-02 arg    0.0005deg, S%  99.9681 const  -2.2982D-04 unc -1.32D-06 rms 5.18D-04
+  summary proper elements:
+ 2.3864335 0.0000000 0.0000000  97.63741 0.00000 0.00000
+ 0.1279053 0.0000351 0.0000964  38.36168 0.00480 0.01285
+ 0.0819721 0.0000310 0.0000507 -41.63521 0.00304 0.00870
+ ======== max. LCE
+ -1.4981D-06 rms.res  4.8912D-01 cost  1.4021D+01 tlyap -6.6750D+05
+  ==================================
+  asteroid 10       
+  =========== semimajor axis 
+ =====================Mean long:
+ freq  64.61825712 deg/yr; per     5.5711809 yr rms  1169.120538 deg;  ph   627.0745 deg
+ ======== a :  3.141884105 sig=.000393851
+  =========== eccentricity 
+ forced  5 amp  3.03783D-02 ph   30.3543 S%   4.7114 cost   8.4684D-05 unc.  -1.3179D-05
+ forced  6 amp  1.26894D-02 ph  307.4821 S%   0.8742 cost   1.3207D-03 unc.   2.9342D-05
+ forced  7 amp  1.21409D-03 ph  116.0189 S%   0.0083 cost  -1.2670D-03 unc.   1.1453D-04
+ Argument: freq  1.286410D+02"/yr, per     10074.548936 yr, rms   8.2344D+00deg  ph  223.9520 deg
+ Proper  1.351697D-01 arg    0.0001deg, S%  99.9721 const   1.2651D-03 unc  1.98D-06 rms 1.60D-03
+  =========== inclination 
+ forced  6 amp  3.90929D-03 ph  300.5461 S%   0.7660 cost   5.0553D-05 unc.   1.2518D-04
+ forced  7 amp  5.08326D-04 ph  140.3444 S%   0.0127 cost  -4.3360D-05 unc.  -6.7036D-05
+ forced  8 amp  6.50634D-04 ph   27.3022 S%   0.0211 cost   4.7388D-05 unc.   4.2684D-05
+ Argument: freq -9.696852D+01"/yr, per     13365.161679 yr, rms   1.5709D+00deg  ph  279.2770 deg
+ Proper  4.444472D-02 arg  359.9996deg, S%  99.9642 const  -1.0260D-04 unc  5.47D-07 rms 5.95D-04
+  summary proper elements:
+ 3.1418841 0.0000522 0.0001495  64.61826 0.00292 0.00844
+ 0.1351697 0.0000262 0.0000750 128.64100 0.07492 0.21256
+ 0.0887142 0.0000093 0.0000122 -96.96852 0.00794 0.02271
+ ======== max. LCE
+ -5.9152D-05 rms.res  2.6886D+00 cost  1.2764D+01 tlyap -1.6906D+04
+  ==================================
+  asteroid 11       
+  =========== semimajor axis 
+ =====================Mean long:
+ freq  93.73140525 deg/yr; per     3.8407618 yr rms     2.219653 deg;  ph   286.0333 deg
+ ======== a :  2.452263367 sig=.000004451
+  =========== eccentricity 
+ forced  5 amp  2.43358D-02 ph   30.7921 S%   8.9333 cost  -3.5218D-04 unc.  -1.8660D-04
+ forced  6 amp  2.21730D-02 ph  305.7487 S%   8.2513 cost   1.5022D-03 unc.   1.8743D-05
+ forced  7 amp  1.06358D-03 ph  155.2826 S%   0.0212 cost  -1.4632D-03 unc.   1.1516D-04
+ Argument: freq  4.041401D+01"/yr, per     32068.089251 yr, rms   2.5305D+00deg  ph  305.5627 deg
+ Proper  7.392575D-02 arg    0.0014deg, S%  99.9682 const   1.6068D-03 unc -6.36D-06 rms 9.52D-04
+  =========== inclination 
+ forced  6 amp  7.36650D-03 ph  298.6909 S%   4.4806 cost   5.8612D-06 unc.  -1.6216D-04
+ forced  7 amp  4.66489D-04 ph  166.8221 S%   0.0183 cost  -2.0283D-05 unc.   1.8012D-04
+ forced  8 amp  6.39664D-04 ph   19.3346 S%   0.0344 cost   2.8014D-05 unc.  -1.1194D-04
+ Argument: freq -4.281979D+01"/yr, per     30266.381188 yr, rms   1.4044D+00deg  ph  129.6371 deg
+ Proper  3.398353D-02 arg    0.0009deg, S%  99.9865 const  -5.8017D-05 unc  5.02D-07 rms 2.97D-04
+  summary proper elements:
+ 2.4522634 0.0000001 0.0000001  93.73141 0.00000 0.00000
+ 0.0739257 0.0001239 0.0001806  40.41401 0.01649 0.04466
+ 0.0678887 0.0000326 0.0000622 -42.81979 0.00182 0.00507
+ ======== max. LCE
+ -1.4888D-06 rms.res  4.8588D-01 cost  1.3231D+01 tlyap -6.7166D+05
+  ==================================
+  asteroid 12       
+  =========== semimajor axis 
+ =====================Mean long:
+ freq 100.93225400 deg/yr; per     3.5667488 yr rms     7.572163 deg;  ph   126.9293 deg
+ ======== a :  2.334229310 sig=.000005364
+  =========== eccentricity 
+ forced  5 amp  2.75262D-02 ph   29.2359 S%   2.2856 cost  -1.6211D-04 unc.  -1.3927D-03
+ forced  6 amp  4.77500D-02 ph  299.8185 S%   7.1359 cost   1.4945D-03 unc.  -5.0439D-04
+ forced  7 amp  5.73337D-04 ph  144.1339 S%   0.0011 cost  -1.4158D-03 unc.   1.1172D-03
+ Argument: freq  3.371797D+01"/yr, per     38436.474157 yr, rms   2.5638D+00deg  ph  291.2146 deg
+ Proper  1.722351D-01 arg    0.0011deg, S%  99.8749 const   1.4677D-03 unc  2.08D-05 rms 4.31D-03
+  =========== inclination 
+ forced  6 amp  9.49532D-03 ph  306.1801 S%   1.3230 cost  -2.7550D-04 unc.   1.9939D-04
+ forced  7 amp  2.90499D-04 ph   99.4779 S%   0.0013 cost   2.2396D-04 unc.  -1.0327D-04
+ forced  8 amp  5.14521D-04 ph  326.1643 S%   0.0038 cost  -2.0230D-04 unc.   1.4943D-04
+ Argument: freq -4.033940D+01"/yr, per     32127.396091 yr, rms   1.3455D+01deg  ph  228.2601 deg
+ Proper  8.178821D-02 arg    0.0016deg, S%  99.9154 const   3.4366D-04 unc -2.60D-06 rms 1.68D-03
+  summary proper elements:
+ 2.3342293 0.0000000 0.0000000 100.93225 0.00000 0.00001
+ 0.1722351 0.0002288 0.0003479  33.71797 0.00402 0.01034
+ 0.1624895 0.0000947 0.0002595 -40.33940 0.01716 0.05348
+ ======== max. LCE
+ -1.4934D-06 rms.res  4.8809D-01 cost  1.1371D+01 tlyap -6.6961D+05
+  ==================================
+  asteroid 13       
+  =========== semimajor axis 
+ =====================Mean long:
+ freq  87.04451106 deg/yr; per     4.1358151 yr rms     2.459825 deg;  ph   359.8977 deg
+ ======== a :  2.576293399 sig=.000005160
+  =========== eccentricity 
+ forced  5 amp  3.27754D-02 ph   31.0122 S%   5.4884 cost   7.7887D-05 unc.   7.8207D-04
+ forced  6 amp  4.32580D-02 ph  311.2459 S%  10.2471 cost   1.5290D-03 unc.   5.0153D-04
+ forced  7 amp  1.17197D-03 ph  111.4379 S%   0.0085 cost  -1.3734D-03 unc.   9.7276D-04
+ Argument: freq  3.572455D+01"/yr, per     36277.576717 yr, rms   4.4038D+00deg  ph  133.9272 deg
+ Proper  1.276707D-01 arg    0.0035deg, S%  99.4888 const   1.2997D-03 unc  2.75D-05 rms 6.47D-03
+  =========== inclination 
+ forced  6 amp  7.01605D-03 ph  310.0188 S%   0.2458 cost  -7.3342D-05 unc.   1.3894D-04
+ forced  7 amp  1.20756D-03 ph   87.6893 S%   0.0074 cost   5.2438D-05 unc.  -4.6309D-04
+ forced  8 amp  3.38235D-04 ph   22.2646 S%   0.0006 cost  -3.9311D-05 unc.  -7.1571D-05
+ Argument: freq -4.527537D+01"/yr, per     28624.832265 yr, rms   9.2125D+00deg  ph   34.8349 deg
+ Proper  1.410221D-01 arg  359.9995deg, S%  99.9695 const   5.3384D-05 unc  6.86D-06 rms 1.74D-03
+  summary proper elements:
+ 2.5762934 0.0000001 0.0000002  87.04451 0.00000 0.00001
+ 0.1276707 0.0000440 0.0001502  35.72455 0.00503 0.01264
+ 0.2765445 0.0001403 0.0002329 -45.27537 0.01074 0.03567
+ ======== max. LCE
+ -1.4635D-06 rms.res  5.0982D-01 cost  1.3079D+01 tlyap -6.8331D+05
